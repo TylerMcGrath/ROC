@@ -1,0 +1,48 @@
+[TRACE]        com.app.LogMain       Hello from TRACE             04-November-2020 Wednesday EST 14:41:46                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             04-November-2020 Wednesday EST 14:41:46                
+[INFO]        com.app.LogMain       Hello from INFO             04-November-2020 Wednesday EST 14:41:46                
+[WARN]        com.app.LogMain       Hello from WARN             04-November-2020 Wednesday EST 14:41:46                
+[ERROR]        com.app.LogMain       Hello from ERROR             04-November-2020 Wednesday EST 14:41:46                
+[FATAL]        com.app.LogMain       Hello from FATAL             04-November-2020 Wednesday EST 14:41:46                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             04-November-2020 Wednesday EST 14:41:46                
+[TRACE]        com.app.LogMain       Hello from TRACE             04-November-2020 Wednesday EST 14:42:09                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             04-November-2020 Wednesday EST 14:42:09                
+[INFO]        com.app.LogMain       Hello from INFO             04-November-2020 Wednesday EST 14:42:09                
+[WARN]        com.app.LogMain       Hello from WARN             04-November-2020 Wednesday EST 14:42:09                
+[ERROR]        com.app.LogMain       Hello from ERROR             04-November-2020 Wednesday EST 14:42:09                
+[FATAL]        com.app.LogMain       Hello from FATAL             04-November-2020 Wednesday EST 14:42:09                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             04-November-2020 Wednesday EST 14:42:09                
+[TRACE]        com.app.LogMain       Hello from TRACE             04-November-2020 Wednesday EST 16:19:18                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             04-November-2020 Wednesday EST 16:19:18                
+[INFO]        com.app.LogMain       Hello from INFO             04-November-2020 Wednesday EST 16:19:18                
+[WARN]        com.app.LogMain       Hello from WARN             04-November-2020 Wednesday EST 16:19:18                
+[ERROR]        com.app.LogMain       Hello from ERROR             04-November-2020 Wednesday EST 16:19:18                
+[FATAL]        com.app.LogMain       Hello from FATAL             04-November-2020 Wednesday EST 16:19:18                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             04-November-2020 Wednesday EST 16:19:18                
+[TRACE]        com.app.LogMain       Hello from TRACE             04-November-2020 Wednesday EST 16:19:43                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             04-November-2020 Wednesday EST 16:19:43                
+[INFO]        com.app.LogMain       Hello from INFO             04-November-2020 Wednesday EST 16:19:43                
+[WARN]        com.app.LogMain       Hello from WARN             04-November-2020 Wednesday EST 16:19:43                
+[ERROR]        com.app.LogMain       Hello from ERROR             04-November-2020 Wednesday EST 16:19:43                
+[FATAL]        com.app.LogMain       Hello from FATAL             04-November-2020 Wednesday EST 16:19:43                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             04-November-2020 Wednesday EST 16:19:43                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             04-November-2020 Wednesday EST 16:20:26                
+[INFO]        com.app.LogMain       Hello from INFO             04-November-2020 Wednesday EST 16:20:26                
+[WARN]        com.app.LogMain       Hello from WARN             04-November-2020 Wednesday EST 16:20:26                
+[ERROR]        com.app.LogMain       Hello from ERROR             04-November-2020 Wednesday EST 16:20:26                
+[FATAL]        com.app.LogMain       Hello from FATAL             04-November-2020 Wednesday EST 16:20:26                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             04-November-2020 Wednesday EST 16:20:26                
+[TRACE]        com.app.LogMain       Hello from TRACE             10-November-2020 Tuesday EST 12:44:36                
+[DEBUG]        com.app.LogMain       Hello from DEBUG             10-November-2020 Tuesday EST 12:44:36                
+[INFO]        com.app.LogMain       Hello from INFO             10-November-2020 Tuesday EST 12:44:36                
+[WARN]        com.app.LogMain       Hello from WARN             10-November-2020 Tuesday EST 12:44:36                
+[ERROR]        com.app.LogMain       Hello from ERROR             10-November-2020 Tuesday EST 12:44:36                
+[FATAL]        com.app.LogMain       Hello from FATAL             10-November-2020 Tuesday EST 12:44:36                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             10-November-2020 Tuesday EST 12:44:36                
+[TRACE]        com.app.LogMain       Hello from TRACE             10-November-2020 Tuesday EST 13:16:00                
+[TRACE]        com.app.LogMain       Hello from DEBUG             10-November-2020 Tuesday EST 13:16:00                
+[INFO]        com.app.LogMain       Hello from INFO             10-November-2020 Tuesday EST 13:16:00                
+[WARN]        com.app.LogMain       Hello from WARN             10-November-2020 Tuesday EST 13:16:00                
+[ERROR]        com.app.LogMain       Hello from ERROR             10-November-2020 Tuesday EST 13:16:00                
+[FATAL]        com.app.LogMain       Hello from FATAL             10-November-2020 Tuesday EST 13:16:00                
+[INFO]        com.app.service.Service       afdasfasdfHello from Service with name = TEST             10-November-2020 Tuesday EST 13:16:00                
