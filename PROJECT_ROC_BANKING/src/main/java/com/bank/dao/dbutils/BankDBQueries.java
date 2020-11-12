@@ -7,7 +7,7 @@ public class BankDBQueries {
 	//if matching username/passwrd isn't returned, login is incorrect
 	public static final String LOGINCHECK = "select firstname, lastname, username, passwrd from bank.customers "
 			+ "where username = ?";
-	public static final String BALANCECHECK = "select balance from bank.customers where accountid = ?";
+	public static final String BALANCECHECK = "select balance from bank.accounts where accountid = ?";
 			
 	public static final String EMPLOYEELOGIN = "select firstname, lastname, username, passwrd from bank.employees "
 			+ "where username = ? and passwrd = ?";
@@ -24,12 +24,10 @@ public class BankDBQueries {
 	public static final String WITHDRAWL = "update bank.accounts set balance=balance-? where accountid=?;"
 			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) "
 			+ "values (?, ?, false, current_timestamp, 'WITHDRAWL')";
-	public static final String TRANSFER = "update bank.accounts set balance=balance+? where accountid=?;"
-			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) "
-			+ "values (?, ?, false, current_timestamp, 'TRANSFER TO');"
-			+ "update bank.accounts set balance=balance-? where accountid=?;"
-			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype)"
-			+ "values (?, ?, false, current_timestamp, 'TRANSFER FROM')";
+	public static final String TRANSFER = "update bank.accounts set balance=balance+? where accountid=?; "
+			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) values (?, ?, false, current_timestamp, 'TRANSFER TO'); "
+			+ "update bank.accounts set balance=balance-? where accountid=?; "
+			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) values (?, ?, false, current_timestamp, 'TRANSFER FROM')";
 	
 	public static final String GETALLCUSTOMERS = "select username, firstname, lastname from bank.customers";
 	public static final String GETALLTRANSACTIONS = "select transactionid, accountid, txnamount, timedate, txntype, approved from bank.transactions";

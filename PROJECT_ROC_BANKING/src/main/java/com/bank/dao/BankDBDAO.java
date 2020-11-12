@@ -16,7 +16,7 @@ public interface BankDBDAO {
 	//Customer operations
 	public void openAccount(String usernamne, String accountType, double openingBalance) throws BusinessException; //adds account to accounts table approved = false
 	public void deposit(int accountID, double amount) throws BusinessException; //add money to existing account
-	public void withdraw(int accountID, double amount) throws BusinessException; //remove money from existing account
+	public void withdrawl(int accountID, double amount) throws BusinessException; //remove money from existing account
 	public void transfer(int fromAccountID, int toAccountID, double amount) throws BusinessException; //transfer money between 2 accounts
 	
 	//Employee operations

@@ -79,44 +79,118 @@ public class CustomerPortal {
 			return true;
 		}
 
-		public static boolean transferMoney(Logger log, Customer customer, BankDBService bankService, Scanner scanner) {
+		public static boolean deposit(Logger log, Customer customer, BankDBService bankService, Scanner scanner) throws BusinessException {
+			
+			int accountID = 0;
+			double amount = 0;
+			
+			log.info("Please Enter account id for deposit");
+			try {
+				accountID = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+				throw new BusinessException("Invalid accountID");
+			}
+			
+			log.info("Please Enter amount for deposit");
+			try {
+				amount = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+				throw new BusinessException("Invalid transfer amount");
+			}
+			
+			try {
+			bankService.deposit(accountID, amount);
+			}catch(BusinessException e) {
+				log.warn(e.getMessage());
+			}
+			return true;
+		}
+		
+		public static boolean withdrawl(Logger log, Customer customer, BankDBService bankService, Scanner scanner) throws BusinessException {
+			
+			int accountID = 0;
+			double amount = 0;
+			
+			log.info("Please Enter account id for withdrawl");
+			try {
+				accountID = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+				throw new BusinessException("Invalid accountID");
+			}
+
+			log.info("Please Enter amount for withdrawl");
+			try {
+				amount = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+				throw new BusinessException("Invalid transfer amount");
+			}
+			
+			try {
+			bankService.withdrawl(accountID, amount);
+			}catch(BusinessException e) {
+				log.warn(e.getMessage());
+			}
+			return true;
+	
+		}
+		
+		public static boolean transferMoney(Logger log, Customer customer, BankDBService bankService, Scanner scanner) throws BusinessException {
 			int fromAccountID = 0;
 			int toAccountID = 0;
 			double amount = 0;
 
-			log.info("Enter account number money will be transferred from: ");
+			log.info("Enter account number money will be transferred FROM: ");
 
 			try {
 				fromAccountID = Integer.parseInt(scanner.nextLine());
 			} catch (NumberFormatException e) {
-				log.warn("Invalid accountID");
-				return false;
+				throw new BusinessException("Invalid accountID");
 			}
 
+			log.info("Enter account number money will be transferred TO: ");
+			
 			try {
 				toAccountID = Integer.parseInt(scanner.nextLine());
 			} catch (NumberFormatException e) {
-				log.warn("Invalid accountID");
-				return false;
+				throw new BusinessException("Invalid accountID");
 			}
 
+			log.info("Enter amount of money for transfer");
+			
 			try {
-				toAccountID = Integer.parseInt(scanner.nextLine());
+				amount = Integer.parseInt(scanner.nextLine());
 			} catch (NumberFormatException e) {
-				log.warn("Invalid accountID");
-				return false;
+				throw new BusinessException("Invalid transfer amount");
 			}
 
 			try {
 				bankService.transfer(fromAccountID, toAccountID, amount);
 			} catch(BusinessException e){
 				log.warn(e.getMessage());
-				return false;
 			}
 
 			return true;
 
 		}
 
+		public static void createCustomer(Logger log, BankDBService bankService, Scanner scanner) throws BusinessException{
+			log.info("Thank you for choosing to create an account with us!");
+			log.info("What's your first name?");
+			String firstname = scanner.nextLine();
+			log.info("What's your last name?");
+			String lastname = scanner.nextLine();
+			log.info("Pick a username (it must be unique)");
+			String username = scanner.nextLine();
+			log.info("Lastly, decide on a password");
+			String password = scanner.nextLine();
+			
+			try {
+			bankService.customerCreate(firstname, lastname, username, password);
+			log.info("Welcome to the family "+ firstname + "!");
+			} catch(BusinessException e) {
+				log.warn(e.getMessage());
+			}
+
+		}
 	}
 }

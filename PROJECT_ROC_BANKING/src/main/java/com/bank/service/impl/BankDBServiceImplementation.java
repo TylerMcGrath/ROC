@@ -18,23 +18,21 @@ public class BankDBServiceImplementation implements BankDBService {
 	@Override
 	public Customer customerLogin(String username, String password) throws BusinessException {
 		
-		Customer customer = DAO.customerLogin(username, password);
-		
+		Customer customer = DAO.customerLogin(username, password);		
 		return customer;
 	}
 
 	@Override
 	public Employee employeeLogin(String username, String password) throws BusinessException {
 		
-		Employee employee = DAO.employeeLogin(username, password);
-		
+		Employee employee = DAO.employeeLogin(username, password);	
 		return employee;
 	}
 
 	@Override
-	public void customerCreate(String firstname, String lastname, String username, String password)
-			throws BusinessException {
-		// TODO Auto-generated method stub
+	public void customerCreate(String firstname, String lastname, String username, String password) throws BusinessException {
+		
+		DAO.customerCreate(firstname, lastname, username, password);
 		
 	}
 
@@ -51,26 +49,42 @@ public class BankDBServiceImplementation implements BankDBService {
 
 	@Override
 	public void deposit(int accountID, double amount) throws BusinessException {
-		// TODO Auto-generated method stub
-		
+		if (accountID > 0 && amount > 0) {
+			DAO.deposit(accountID, amount);
+		} else {
+			throw new BusinessException("Invalid accountId or deposit amount");
+		}
 	}
 
 	@Override
-	public void withdraw(int accountID, double amount) throws BusinessException {
-		// TODO Auto-generated method stub
-		
+	public void withdrawl(int accountID, double amount) throws BusinessException {
+		if (accountID > 0 && amount > 0) {
+			DAO.withdrawl(accountID, amount);
+		} else {
+			throw new BusinessException("Invalid accountId or withdrawl amount");
+		}
 	}
+	
 
 	@Override
 	public void transfer(int fromAccountID, int toAccountID, double amount) throws BusinessException {
-		// TODO Auto-generated method stub
+		
+		if (amount > 0 && fromAccountID > 0 && toAccountID > 0) {
+			DAO.transfer(fromAccountID, toAccountID, amount);
+		}else {
+			throw new BusinessException("Negative or zero values for transfer are not permitted");
+		}
 		
 	}
 
 	@Override
 	public List<Transaction> getAllTransactions() throws BusinessException {
-		// TODO Auto-generated method stub
-		return null;
+		
+		List<Transaction> txnList = null;
+		//System.out.println(username);
+		txnList = DAO.getAllTransactions();
+		return txnList;	
+
 	}
 
 	@Override

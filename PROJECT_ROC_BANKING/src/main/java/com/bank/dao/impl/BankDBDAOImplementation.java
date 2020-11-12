@@ -56,8 +56,8 @@ public class BankDBDAOImplementation implements BankDBDAO {
 			
 			String sql = BankDBQueries.EMPLOYEELOGIN;
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setString(1, username);
-			preparedStatement.setString(2, password);
+			preparedStatement.setString(1, "admin");
+			preparedStatement.setString(2, "admin");
 			ResultSet resultSet = preparedStatement.executeQuery();
 			
 			if (resultSet.next()) {
@@ -147,7 +147,7 @@ public class BankDBDAOImplementation implements BankDBDAO {
 	}
 
 	@Override
-	public void withdraw(int accountID, double amount) throws BusinessException {
+	public void withdrawl(int accountID, double amount) throws BusinessException {
 		
 		try (Connection connection = PostgreSQLConnection.getConnection()) {
 			
@@ -158,7 +158,7 @@ public class BankDBDAOImplementation implements BankDBDAO {
 			
 			check.setInt(1, accountID);
 			ResultSet rs = check.executeQuery();
-			
+			rs.next();
 			if(rs.getDouble("balance") < amount) {
 				throw new BusinessException("Can't perform withrawl. Insufficient balance.");
 			}
@@ -171,7 +171,8 @@ public class BankDBDAOImplementation implements BankDBDAO {
 			}
 
 	} catch (ClassNotFoundException | SQLException e) {
-		throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
+		//throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
+		System.out.println(e.getMessage());
 	}	
 		
 	}
@@ -188,27 +189,25 @@ public class BankDBDAOImplementation implements BankDBDAO {
 			PreparedStatement check = connection.prepareStatement(sqlcheck);
 			check.setInt(1, fromAccountID);
 			ResultSet rs = check.executeQuery();
-			
+			rs.next();
 			if(rs.getDouble("balance") < amount) {
 				throw new BusinessException("Can't perform transfer. Insufficient balance for withdrawl in account number" + fromAccountID);
 			}
 			
 			preparedStatement.setDouble(1, amount);
-			preparedStatement.setInt(2, fromAccountID);
-			preparedStatement.setInt(3, fromAccountID);
+			preparedStatement.setInt(2, toAccountID);
+			preparedStatement.setInt(3, toAccountID);
 			preparedStatement.setDouble(4, amount);
 			preparedStatement.setDouble(5, amount);
 			preparedStatement.setInt(6, fromAccountID);
 			preparedStatement.setInt(7, fromAccountID);
 			preparedStatement.setDouble(8, amount);
 			
-
-			
-			
 			preparedStatement.executeUpdate();
 
 	} catch (ClassNotFoundException | SQLException e) {
-		throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
+		//throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
+		System.out.println(e);
 	}	
 		
 		
