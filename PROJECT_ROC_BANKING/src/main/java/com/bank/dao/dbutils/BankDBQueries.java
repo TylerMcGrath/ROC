@@ -35,11 +35,11 @@ public class BankDBQueries {
 	public static final String GETACCNTTRANSACTIONS = "select transactionid, accountid, txnamount, timedate, txntype, approved from bank.transactions"
 			+ "where accountid = ?"; //transactions for a single account
 	public static final String GETCUSTTRANSACTIONS = "select transactionid, accountid, txnamount, timedate, txntype, approved from bank.transactions"
-			+ "where username = ?"; // all transactions from a user
-	public static final String GETCUSTACCOUNTS = "select accountid, balance, accounttype, approved from bank.accounts"
-			+ "where username = ?"; // view account details, if not approved can't interact
+			+ "where username = '?'"; // all transactions from a user
+	public static final String GETCUSTACCOUNTS = "select accountid, username, balance, accounttype, approved from bank.accounts"
+			+ "where username='?'"; // view account details, if not approved can't interact
 	public static final String GETACCOUNT = "select accountid, balance, accounttype, approved from bank.accounts"
-			+ "where accountid = ?";
+			+ "where accountid = '?'";
 	public static final String GETACCOUNTUNAPPROVED = "select accountid, username, balance, accounttype, approved from bank.accounts"
 			+ "where approved = false"; //see unapproved accounts for
 	

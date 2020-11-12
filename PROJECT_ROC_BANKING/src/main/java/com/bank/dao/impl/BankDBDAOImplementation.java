@@ -322,8 +322,9 @@ public class BankDBDAOImplementation implements BankDBDAO {
 				throw new BusinessException("No Account Records Available");
 			}
 	} catch (ClassNotFoundException | SQLException e) {
-		throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
-	}	
+		//throw new BusinessException("Internal error occured... Kindly contact SYSADMIN");
+		System.out.println(e.getMessage());;
+	}
 		return accntList;
 	}
 

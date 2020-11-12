@@ -17,13 +17,17 @@ public class BankDBServiceImplementation implements BankDBService {
 
 	@Override
 	public Customer customerLogin(String username, String password) throws BusinessException {
+		
 		Customer customer = DAO.customerLogin(username, password);
+		
 		return customer;
 	}
 
 	@Override
 	public Employee employeeLogin(String username, String password) throws BusinessException {
+		
 		Employee employee = DAO.employeeLogin(username, password);
+		
 		return employee;
 	}
 
@@ -89,20 +93,27 @@ public class BankDBServiceImplementation implements BankDBService {
 	}
 
 	@Override
-	public List<Account> getAllAccounts(String username) throws BusinessException {
-		// TODO Auto-generated method stub
-		return null;
+	public List<Account> getCustAccounts(String username) throws BusinessException {
+		
+		List<Account> accountsList = null;
+		//System.out.println(username);
+		accountsList = DAO.getCustAccounts(username);
+		return accountsList;
 	}
 
 	@Override
 	public List<Account> getAccount(int accountID) throws BusinessException {
-		// TODO Auto-generated method stub
+
+
+		
 		return null;
 	}
 
 	@Override
 	public List<Transaction> getAccntTransactions(int accountID) throws BusinessException {
-		// TODO Auto-generated method stub
+
+		
+
 		return null;
 	}
 

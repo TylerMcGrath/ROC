@@ -29,7 +29,7 @@ public interface BankDBService {
 	public List<Customer> getAllCustomers() throws BusinessException;
 	
 	//shared operations
-	public List<Account> getAllAccounts(String username) throws BusinessException; //displays all accounts for username
+	public List<Account> getCustAccounts(String username) throws BusinessException; //displays all accounts for username
 	public List<Account> getAccount(int accountID) throws BusinessException; //displays all accounts for username
 	public List<Transaction> getAccntTransactions(int accountID) throws BusinessException; //displays all transactions for an account
 	public List<Transaction> getCustTransactions(String username) throws BusinessException; //displays transactions for user

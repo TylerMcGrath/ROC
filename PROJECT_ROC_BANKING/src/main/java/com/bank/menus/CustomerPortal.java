@@ -1,12 +1,16 @@
 package com.bank.menus;
 
+import java.util.List;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
 import com.bank.dao.BankDBDAO;
 import com.bank.exception.BusinessException;
+import com.bank.models.Account;
 import com.bank.models.Customer;
 import com.bank.service.BankDBService;
+
+import jdk.internal.org.jline.utils.Log;
 
 public class CustomerPortal {
 
@@ -14,7 +18,7 @@ public class CustomerPortal {
 
 	}
 
-	public static class CustomerLogin {
+	public static class CustomerActions {
 
 		public static Customer login(Logger log, BankDBService bankService) {
 			Scanner scanner =  new Scanner(System.in);
@@ -38,6 +42,17 @@ public class CustomerPortal {
 
 		}
 		
-		public static Account accountsView()
+		public static List<Account> custAccounts(Logger log, Customer customer, BankDBService bankService) {
+			List<Account> accounts = null;
+			log.debug("-getting accounts-");
+			
+			try {
+				accounts = bankService.getCustAccounts("Fist");
+			} catch (BusinessException e) {
+				log.warn(e.getMessage());
+			}
+			
+			return accounts;
+		}
 	}
 }
