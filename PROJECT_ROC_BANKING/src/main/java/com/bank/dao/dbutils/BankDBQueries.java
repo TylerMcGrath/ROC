@@ -15,20 +15,21 @@ public class BankDBQueries {
 	public static final String CUSTOMERCREATE = "insert into bank.customers (firstname, lastname, username, passwrd) "
 			+ "values (?, ?, ?, ?)";
 	
-	public static final String OPENACCOUNT = "insert into bank.accounts (username, balance, accounttype, approved)"
-			+ "values (?, ?, ?, false)";
+	public static final String OPENACCOUNT = "insert into bank.accounts (username, balance, accounttype, approved) values (?, ?, ?, false); "
+			+ "insert into bank.transactions (accountid) select max(accountid) from bank.accounts; "
+			+ "update bank.transactions set accountid = (select max(accountid) from bank.accounts), txnamount=?, approved=false, timedate = current_timestamp, txntype = 'NEW ACCOUNT' where transactionid = (select max(transactionid) from bank.transactions) ";
 	public static final String DEPOSIT = "update bank.accounts set balance=balance+? where accountid=?;"
 			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) "
 			+ "values (?, ?, false, current_timestamp, 'DEPOSIT')";
 	public static final String WITHDRAWL = "update bank.accounts set balance=balance-? where accountid=?;"
 			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) "
-			+ "values (?, ?, false, current_timestamp, 'WITHRDAWL')";
+			+ "values (?, ?, false, current_timestamp, 'WITHDRAWL')";
 	public static final String TRANSFER = "update bank.accounts set balance=balance+? where accountid=?;"
 			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype) "
-			+ "values (?, ?, false, current_timestamp, 'TRANSFERTO');"
+			+ "values (?, ?, false, current_timestamp, 'TRANSFER TO');"
 			+ "update bank.accounts set balance=balance-? where accountid=?;"
 			+ "insert into bank.transactions (accountid, txnamount, approved, timedate, txntype)"
-			+ "values (?, ?, false, current_timestamp, 'TRANSFERFROM')";
+			+ "values (?, ?, false, current_timestamp, 'TRANSFER FROM')";
 	
 	public static final String GETALLCUSTOMERS = "select username, firstname, lastname from bank.customers";
 	public static final String GETALLTRANSACTIONS = "select transactionid, accountid, txnamount, timedate, txntype, approved from bank.transactions";

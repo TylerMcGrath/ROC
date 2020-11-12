@@ -117,6 +117,7 @@ public class BankDBDAOImplementation implements BankDBDAO {
 				preparedStatement.setString(1, username);
 				preparedStatement.setDouble(2, openingBalance);
 				preparedStatement.setString(3, accountType);
+				preparedStatement.setDouble(4, openingBalance);
 				
 				preparedStatement.executeUpdate();
 
@@ -133,8 +134,11 @@ public class BankDBDAOImplementation implements BankDBDAO {
 				String sql = BankDBQueries.DEPOSIT;
 				PreparedStatement preparedStatement = connection.prepareStatement(sql);
 				
-				preparedStatement.setInt(1, accountID);
-				preparedStatement.setDouble(2, amount);
+				preparedStatement.setDouble(1, amount);
+				preparedStatement.setInt(2, accountID);
+				preparedStatement.setInt(3, accountID);
+				preparedStatement.setDouble(4, amount);
+				
 				preparedStatement.executeUpdate();
 
 		} catch (ClassNotFoundException | SQLException e) {
@@ -159,8 +163,10 @@ public class BankDBDAOImplementation implements BankDBDAO {
 				throw new BusinessException("Can't perform withrawl. Insufficient balance.");
 			}
 			else {
-			preparedStatement.setInt(1, accountID);
-			preparedStatement.setDouble(2, amount);
+			preparedStatement.setDouble(1, amount);
+			preparedStatement.setInt(2, accountID);
+			preparedStatement.setInt(3, accountID);
+			preparedStatement.setDouble(4, amount);
 			preparedStatement.executeUpdate();
 			}
 

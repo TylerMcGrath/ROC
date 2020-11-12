@@ -39,8 +39,13 @@ public class BankDBServiceImplementation implements BankDBService {
 	}
 
 	@Override
-	public void openAccount(String usernamne, String accountType, double openingBalance) throws BusinessException {
-		// TODO Auto-generated method stub
+	public void openAccount(String username, String accountType, double openingBalance) throws BusinessException {
+		if (openingBalance < 0) {
+			throw new BusinessException("You can't put negative money in here. Nice try."); }
+		else {
+			DAO.openAccount(username, accountType, openingBalance);
+		}
+			
 		
 	}
 

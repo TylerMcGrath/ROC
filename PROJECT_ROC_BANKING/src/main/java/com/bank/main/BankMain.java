@@ -56,7 +56,7 @@ public class BankMain {
 			switch(select) {
 			case 1: // customer login
 				int select1 = 0;
-				Customer customer = CustomerActions.login(log, bankService);
+				Customer customer = CustomerActions.login(log, bankService, scanner);
 				if (customer != null) {
 					
 					/////////////////////////////////////////
@@ -69,7 +69,7 @@ public class BankMain {
 						log.info("Welcome " + customer.getFirstname() + " " + customer.getLastname() + "!");
 						log.info("What would you like to do?");
 						log.info("=======================================================");
-						log.info("1) View/Transact With My Accounts");
+						log.info("1) Manage My Accounts");
 						log.info("2) Open New Savings Account");
 						log.info("3) Open New Checking Account");
 						log.info("4) View/Modify My Information");
@@ -152,7 +152,7 @@ public class BankMain {
 									//////////////////////////////////////////////////////////////////////			
 										
 									case 3://tranfer
-										log.info("This feature is still under construction! It'll be done soon(tm)\n");
+										CustomerActions.transferMoney(log, customer, bankService, scanner);
 										break;
 									
 									////////////////////////
@@ -193,7 +193,20 @@ public class BankMain {
 							//////////////////////////////////////////////////////
 							
 						case 2: //open savings
-							log.info("This feature is still under construction! It'll be done soon(tm)\n");
+							double openBalance = 0;
+							log.info("Good choice! Enter opening balance for your new savings account: ");
+							try {
+							openBalance = Double.parseDouble(scanner.nextLine());
+							if(openBalance > 0) {
+								CustomerActions.openSavings(log, customer, bankService, openBalance);
+								log.info("Congratulations! Your Savings account has successfully been created! Time to watch your money grow!");
+							} else {
+								log.warn("You can't put negative money in your account. Nice try.");
+							}
+							} catch (NumberFormatException e) {
+								log.warn("Please enter a value greater than 0");
+							}
+							
 							break;//end open savings
 
 							/////////////////////////////////////////
@@ -205,7 +218,18 @@ public class BankMain {
 							//////////////////////////////////////////////////////
 							
 						case 3: //open checking
-							log.info("This feature is still under construction! It'll be done soon(tm)\n");
+							log.info("Good choice! Enter opening balance for your new savings account: ");
+							try {
+							openBalance = Double.parseDouble(scanner.nextLine());
+							if(openBalance > 0) {
+								CustomerActions.openChecking(log, customer, bankService, openBalance);
+								log.info("Congratulations! Your Checking account has successfully been created! Time to spend with ease!");
+							} else {
+								log.warn("You can't put negative money in your account. Nice try.");
+							}
+							} catch (NumberFormatException e) {
+								log.warn("Please enter a value greater than 0");
+							}
 							break;//end open checking
 							
 							/////////////////////////////////////////
