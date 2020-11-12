@@ -14,20 +14,22 @@ public interface BankDBDAO {
 	public void customerCreate(String firstname, String lastname, String username, String password) throws BusinessException; //adds new entry to customer table
 	
 	//Customer operations
-	public void openAccount(String accountType, double openingBalance); //adds account to accounts table approved = false
-	public void deposit(int accountID, double amount); //add money to existing account
-	public void withdraw(int accountID, double amount); //remove money from existing account
-	public void transfer(int fromAccountID, int toAccountID, double amount); //transfer money between 2 accounts
+	public void openAccount(String usernamne, String accountType, double openingBalance) throws BusinessException; //adds account to accounts table approved = false
+	public void deposit(int accountID, double amount) throws BusinessException; //add money to existing account
+	public void withdraw(int accountID, double amount) throws BusinessException; //remove money from existing account
+	public void transfer(int fromAccountID, int toAccountID, double amount) throws BusinessException; //transfer money between 2 accounts
 	
 	//Employee operations
-	public List<Transactions> getTransactions(); //view entire transactions table
-	public List<Account> pendingApproval(); //view unapproved accounts
-	public void approveAccount(int accountID);//approve accounts
-	public void denyAccount(int accountID); //deny (delete) account
+	public List<Transaction> getAllTransactions() throws BusinessException; //view entire transactions table
+	public List<Account> pendingApproval() throws BusinessException; //view unapproved accounts
+	public void approveAccount(int accountID) throws BusinessException;//approve accounts
+	public void denyAccount(int accountID) throws BusinessException; //deny (delete) account
+	public List<Customer> getAllCustomers() throws BusinessException;
 	
 	//shared operations
-	public List<Account> getAccounts(String username); //displays all accounts for username
-	public List<Transactions> getTransactions(int accountID); //displays all transactions for an account
-	public List<Transactions> getTransactions(String username); //displays transactions for user
+	public List<Account> getCustAccounts(String username) throws BusinessException; //displays all accounts for username
+	public List<Account> getAccount(int accountID) throws BusinessException; //displays all accounts for username
+	public List<Transaction> getAccntTransactions(int accountID) throws BusinessException; //displays all transactions for an account
+	public List<Transaction> getCustTransactions(String username) throws BusinessException; //displays transactions for user
 
 }

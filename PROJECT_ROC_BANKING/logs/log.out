@@ -1,2 +1,554 @@
 [INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             10-November-2020 Tuesday EST 13:18:52                
 [INFO]        com.bank.main.BankMain       -----------------------------------------------             10-November-2020 Tuesday EST 13:18:52                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:40:29                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:40:29                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:40:29                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:40:52                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:43:25                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:43:25                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:43:25                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:43:29                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:45:01                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:45:01                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:45:01                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:45:14                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:46:00                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:46:00                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:46:00                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:46:07                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:46:56                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:47:36                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:48:08                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:48:08                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:48:08                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:48:09                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:48:52                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:48:52                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:48:52                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:48:55                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:51:46                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:51:46                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:53:22                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:53:22                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:53:22                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:53:25                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:53:48                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:53:48                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:53:48                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:53:56                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:54:35                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:54:35                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:54:35                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:54:39                
+[INFO]        com.bank.main.BankMain       Welcome to Tyler's Banking Application             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       -----------------------------------------------             11-November-2020 Wednesday EST 17:55:05                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:55:05                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       -------------------------------------------------------             11-November-2020 Wednesday EST 17:59:04                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 17:59:04                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 17:59:04                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 17:59:19                
+[WARN]        com.bank.main.BankMain       Invalid selection, please try again             11-November-2020 Wednesday EST 17:59:19                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 17:59:19                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 18:01:03                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 18:01:03                
+[INFO]        com.bank.main.BankMain       Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 18:01:03                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 18:01:13                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 18:01:13                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 18:01:36                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 18:01:36                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 18:01:36                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 18:01:42                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 18:01:42                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 19:56:50                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 19:56:50                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 19:56:50                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 19:56:57                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 19:56:57                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 19:56:57                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 19:56:57                
+[DEBUG]        com.bank.main.BankMain       user input = fist             11-November-2020 Wednesday EST 19:57:08                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 19:57:08                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 19:57:11                
+[WARN]        com.bank.main.BankMain       Internal error occured... Kindly contact SYSADMIN             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 19:57:11                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 19:57:11                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:01:55                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:01:55                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:01:55                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 20:01:59                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 20:01:59                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 20:01:59                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 20:01:59                
+[DEBUG]        com.bank.main.BankMain       user input = fist             11-November-2020 Wednesday EST 20:02:02                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 20:02:02                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 20:02:03                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 20:02:04                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:02:04                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:07:13                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:07:13                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:07:13                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 20:07:15                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 20:07:15                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 20:07:15                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 20:07:15                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 20:07:18                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 20:07:18                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 20:07:20                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:07:21                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:07:21                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 20:09:42                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 20:09:42                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 20:09:42                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 20:09:42                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 20:09:45                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 20:09:45                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 20:09:47                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:09:47                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:09:47                
+[DEBUG]        com.bank.main.BankMain       user input = 0             11-November-2020 Wednesday EST 20:09:54                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 20:09:54                
+[INFO]        com.bank.main.BankMain       Thank you for choosing Mars! Come again soon!             11-November-2020 Wednesday EST 20:09:54                
+[INFO]        com.bank.main.BankMain       ==============================================             11-November-2020 Wednesday EST 20:09:54                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 20:09:59                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:09:59                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:09:59                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 20:10:00                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 20:10:00                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 20:10:00                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 20:10:00                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 20:10:02                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 20:10:02                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 20:10:03                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:10:04                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:10:04                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 20:11:34                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 20:11:34                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 20:11:34                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 20:11:34                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 20:11:37                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 20:11:37                
+[DEBUG]        com.bank.main.BankMain       user input = Fury             11-November-2020 Wednesday EST 20:11:39                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 20:11:39                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 20:11:39                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:08:05                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:08:05                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:08:05                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:08:11                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:08:11                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:08:11                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:08:11                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 21:08:14                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:08:14                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 21:08:17                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:08:17                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:24:30                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:24:30                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:24:30                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:24:33                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:24:33                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:24:33                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:24:33                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 21:24:36                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:24:36                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             11-November-2020 Wednesday EST 21:24:37                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:24:37                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:24:37                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:24:55                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:24:55                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:24:55                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:24:55                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 21:24:57                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:24:57                
+[DEBUG]        com.bank.main.BankMain       user input = sadf             11-November-2020 Wednesday EST 21:24:58                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 21:24:58                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:24:58                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:27:52                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:27:52                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:27:52                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:27:54                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:27:54                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:27:54                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:27:54                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             11-November-2020 Wednesday EST 21:27:56                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:27:56                
+[DEBUG]        com.bank.main.BankMain       user input = fury             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!
+             11-November-2020 Wednesday EST 21:27:57                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:27:57                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:27:57                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:28:06                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:28:06                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:28:06                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:28:06                
+[DEBUG]        com.bank.main.BankMain       user input = fdsa             11-November-2020 Wednesday EST 21:28:07                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:28:07                
+[DEBUG]        com.bank.main.BankMain       user input = fdsa             11-November-2020 Wednesday EST 21:28:08                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 21:28:08                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:28:08                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:30:21                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:30:21                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:30:21                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:30:26                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:30:26                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:30:26                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:30:26                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 21:30:27                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:30:27                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 21:30:28                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 21:30:28                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:30:28                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 21:31:01                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:31:01                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:31:01                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 21:31:07                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 21:31:07                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 21:31:07                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 21:31:07                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 21:31:07                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 21:31:07                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 21:31:08                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 21:31:08                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 21:31:08                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       =======================================================             11-November-2020 Wednesday EST 22:07:35                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 22:07:35                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 22:07:35                
+[DEBUG]        com.bank.main.BankMain       user input = 1             11-November-2020 Wednesday EST 22:07:37                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             11-November-2020 Wednesday EST 22:07:37                
+[INFO]        com.bank.main.BankMain       ==================================             11-November-2020 Wednesday EST 22:07:37                
+[INFO]        com.bank.main.BankMain       User Name:              11-November-2020 Wednesday EST 22:07:37                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 22:07:40                
+[INFO]        com.bank.main.BankMain       Password:              11-November-2020 Wednesday EST 22:07:40                
+[DEBUG]        com.bank.main.BankMain       user input = asdf             11-November-2020 Wednesday EST 22:07:41                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             11-November-2020 Wednesday EST 22:07:41                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 22:07:41                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 22:07:41                
+[DEBUG]        com.bank.main.BankMain       user input = 3             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       This feature is still under construction! It'll be done soon(tm)             11-November-2020 Wednesday EST 22:07:50                
+[DEBUG]        com.bank.main.BankMain       -top of main-             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       1) Customer login             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       2) Employee login             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain       0) Exit application             11-November-2020 Wednesday EST 22:07:50                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             11-November-2020 Wednesday EST 22:07:50                

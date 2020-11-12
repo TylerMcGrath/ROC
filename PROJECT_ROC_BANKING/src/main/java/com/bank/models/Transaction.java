@@ -2,7 +2,7 @@ package com.bank.models;
 
 import java.sql.Timestamp;
 
-public class Transactions {
+public class Transaction {
 	
 	private int transactionID;
 	private int accountID;
@@ -11,8 +11,9 @@ public class Transactions {
 	private Timestamp timestamp;
 	private boolean txnApproved;
 	
-	public Transactions(int transactionID, int accountID, double txnAmount, String txnType, Timestamp timestamp,
+	public Transaction(int transactionID, int accountID, double txnAmount, Timestamp timestamp, String txnType,
 			boolean txnApproved) {
+		
 		super();
 		this.transactionID = transactionID;
 		this.accountID = accountID;
