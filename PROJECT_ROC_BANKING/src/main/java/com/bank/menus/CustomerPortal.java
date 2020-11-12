@@ -47,7 +47,7 @@ public class CustomerPortal {
 			log.debug("-getting accounts-");
 			
 			try {
-				accounts = bankService.getCustAccounts("Fist");
+				accounts = bankService.getCustAccounts(customer.getUsername());
 			} catch (BusinessException e) {
 				log.warn(e.getMessage());
 			}

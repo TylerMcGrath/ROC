@@ -1271,3 +1271,597 @@
 [INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 00:55:37                
 [INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 00:55:37                
 [INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 00:55:37                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:13                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:29:13                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:29:13                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:29:22                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:29:22                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:29:22                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:29:22                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             12-November-2020 Thursday EST 01:29:23                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:29:23                
+[DEBUG]        com.bank.main.BankMain       user input = fury             12-November-2020 Thursday EST 01:29:25                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:29:25                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:29:25                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:29:26                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:29:26                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:29:26                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:19                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:30:19                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:35                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:30:35                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:30:35                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:30:36                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:30:36                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:30:36                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:30:36                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             12-November-2020 Thursday EST 01:30:38                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:30:38                
+[DEBUG]        com.bank.main.BankMain       user input = fury             12-November-2020 Thursday EST 01:30:39                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:30:39                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:30:39                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:30:40                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:30:40                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:30:40                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:30:57                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:30:57                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:30:57                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:30:58                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:30:58                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:30:58                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:30:58                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             12-November-2020 Thursday EST 01:31:04                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:31:04                
+[DEBUG]        com.bank.main.BankMain       user input = fury             12-November-2020 Thursday EST 01:31:05                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:31:05                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:31:05                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:31:07                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:31:07                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:31:07                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       This feature is still under construction! It'll be done soon(tm)
+             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:31:16                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:31:16                
+[DEBUG]        com.bank.main.BankMain       user input = 2             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       This feature is still under construction! It'll be done soon(tm)
+             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:31:22                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:31:22                
+[DEBUG]        com.bank.main.BankMain       user input = 3             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       This feature is still under construction! It'll be done soon(tm)
+             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:31:25                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:31:25                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       Taking you back to the main menu...
+             12-November-2020 Thursday EST 01:31:36                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:31:36                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:31:36                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       Logging you out...
+             12-November-2020 Thursday EST 01:31:40                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:31:40                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:31:40                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:31:44                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:31:44                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:31:44                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:31:44                
+[DEBUG]        com.bank.main.BankMain       user input = Lefty             12-November-2020 Thursday EST 01:31:47                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:31:47                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:31:48                
+[WARN]        com.bank.main.BankMain       Invalid Credentials. Please try again, or try creating a new account.             12-November-2020 Thursday EST 01:31:48                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:31:48                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:31:48                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:32:00                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:32:00                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:32:00                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:32:00                
+[DEBUG]        com.bank.main.BankMain       user input = lefty             12-November-2020 Thursday EST 01:32:01                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:32:01                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:32:02                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:32:02                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:32:02                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:32:04                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:32:04                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:32:04                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       Taking you back to the main menu...
+             12-November-2020 Thursday EST 01:32:22                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:32:22                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:32:22                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:32:23                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:32:23                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:32:23                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       Taking you back to the main menu...
+             12-November-2020 Thursday EST 01:32:26                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:32:26                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:32:26                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       Logging you out...
+             12-November-2020 Thursday EST 01:32:27                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:32:27                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:32:27                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:32:28                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:32:28                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:32:28                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:32:28                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             12-November-2020 Thursday EST 01:32:30                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:32:30                
+[DEBUG]        com.bank.main.BankMain       user input = fury             12-November-2020 Thursday EST 01:32:31                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:32:31                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:32:31                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:32:32                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:32:32                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:37                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:33:37                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:33:37                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:33:43                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:33:43                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:33:43                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:33:43                
+[DEBUG]        com.bank.main.BankMain       user input = lefty             12-November-2020 Thursday EST 01:33:45                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:33:45                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:33:47                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:33:47                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:33:47                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:33:48                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:33:48                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:45                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:34:45                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:34:45                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:34:47                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:34:47                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:34:47                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:34:47                
+[DEBUG]        com.bank.main.BankMain       user input = lefty             12-November-2020 Thursday EST 01:34:50                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:34:50                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:34:51                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:34:51                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:34:51                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:34:52                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:34:52                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:37:56                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:37:56                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:37:56                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:38:04                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:38:04                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:38:04                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:38:04                
+[DEBUG]        com.bank.main.BankMain       user input = lefty             12-November-2020 Thursday EST 01:38:08                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:38:08                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:38:09                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:38:09                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:38:09                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:38:12                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:38:12                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       Welcome to The 1st Bank of Mars! How may we help you?             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:47                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:38:47                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:38:47                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:38:48                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:38:48                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:38:48                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:38:48                
+[DEBUG]        com.bank.main.BankMain       user input = lefty             12-November-2020 Thursday EST 01:38:50                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:38:50                
+[DEBUG]        com.bank.main.BankMain       user input = right             12-November-2020 Thursday EST 01:38:51                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:38:51                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:38:51                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:38:53                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       Here are your accounts, John             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       Account [accountID=1, ownerUsername=lefty, balance=10000.0, accountType=Savings, accountApproved=true]             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:38:53                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:38:53                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       Taking you back to the main menu...
+             12-November-2020 Thursday EST 01:39:09                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       Welcome John Doe!             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:39:09                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:39:09                
+[DEBUG]        com.bank.main.BankMain       user input = 0             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       Logging you out...
+             12-November-2020 Thursday EST 01:39:12                
+[DEBUG]        com.bank.main.BankMain       -top of main-             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       Please select user account type for login, or create a new customer account             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       ---------------------------------------------------------------------------             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       1) Customer login             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       2) Employee login             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       3) Create New Customer Account             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain       0) Exit application             12-November-2020 Thursday EST 01:39:12                
+[INFO]        com.bank.main.BankMain        
+ Please only enter valid selection (1-3, or 0 to exit)             12-November-2020 Thursday EST 01:39:12                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:39:14                
+[INFO]        com.bank.main.BankMain       Please Enter User Name and Password             12-November-2020 Thursday EST 01:39:14                
+[INFO]        com.bank.main.BankMain       ==================================             12-November-2020 Thursday EST 01:39:14                
+[INFO]        com.bank.main.BankMain       User Name:              12-November-2020 Thursday EST 01:39:14                
+[DEBUG]        com.bank.main.BankMain       user input = Fist             12-November-2020 Thursday EST 01:39:18                
+[INFO]        com.bank.main.BankMain       Password:              12-November-2020 Thursday EST 01:39:18                
+[DEBUG]        com.bank.main.BankMain       user input = fury             12-November-2020 Thursday EST 01:39:20                
+[DEBUG]        com.bank.main.BankMain       -successful login-             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       Welcome Bruce Lee!             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       What would you like to do?             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       1) View/Transact With My Accounts             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       2) Open New Savings Account             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       3) Open New Checking Account             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       4) View/Modify My Information             12-November-2020 Thursday EST 01:39:20                
+[INFO]        com.bank.main.BankMain       0) Logout             12-November-2020 Thursday EST 01:39:20                
+[DEBUG]        com.bank.main.BankMain       user input = 1             12-November-2020 Thursday EST 01:39:21                
+[DEBUG]        com.bank.main.BankMain       -getting accounts-             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:39:21                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:39:21                
+[DEBUG]        com.bank.main.BankMain       user input = 4             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       This feature is still under construction! It'll be done soon(tm)
+             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       Here are your accounts, Bruce             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       ======================================================= 
+             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       Account [accountID=2, ownerUsername=Fist, balance=100000.0, accountType=CHECKING, accountApproved=true]             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       =======================================================             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       How would you like to manage your accounts?             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       =======================================================              12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       1) Make a deposit             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       2) Make a withdrawl             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       3) Transfer between your accounts             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       4) View pending transfers             12-November-2020 Thursday EST 01:39:35                
+[INFO]        com.bank.main.BankMain       0) Main Menu             12-November-2020 Thursday EST 01:39:35                

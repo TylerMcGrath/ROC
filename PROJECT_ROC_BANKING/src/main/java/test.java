@@ -30,7 +30,7 @@ public class test {
 
 		try (Connection connection = PostgreSQLConnection.getConnection()) {
 
-			String sql = BankDBQueries.GETACCOUNT;
+			String sql = BankDBQueries.GETCUSTACCOUNTS;
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			preparedStatement.setString(1, "Fist");
 			ResultSet resultSet = preparedStatement.executeQuery();

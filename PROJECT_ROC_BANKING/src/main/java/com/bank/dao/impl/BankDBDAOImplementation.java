@@ -313,7 +313,7 @@ public class BankDBDAOImplementation implements BankDBDAO {
 			while(resultSet.next()) {
 				
 				Account account = new Account(resultSet.getInt("accountid"), resultSet.getString("username"), 
-						resultSet.getDouble("balance"), resultSet.getString("accnttype"), resultSet.getBoolean("approved"));
+						resultSet.getDouble("balance"), resultSet.getString("accounttype"), resultSet.getBoolean("approved"));
 				accntList.add(account);
 			}
 			
